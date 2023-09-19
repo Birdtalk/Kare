@@ -2,6 +2,6 @@
 Easy to use at home medical charting system for medically complex children.
 
 
-See the Mobile and Desktop Demonstration here. 
+I worked on a small team to build new requirements for the desktop application. See the demonstration here. 
 
 https://drive.google.com/file/d/1DPuAAQh-W7veIyC9ilioHbeLLvgUCt6M/view?usp=sharing
