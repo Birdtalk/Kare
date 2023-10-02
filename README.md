@@ -1,4 +1,9 @@
-# Kare
+<h1>
+  <div align="center">
+    <img src="icon.png" width="400px"</img> 
+</div>
+</h1>
+
 Easy to use at home medical charting system for medically complex children.
 
 
