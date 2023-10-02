@@ -1,6 +1,6 @@
 <h1>
   <div align="center">
-    <img src="icon.png" width="400px"</img> 
+    <img src="logo.png" width="400px"</img> 
 </div>
 </h1>
 
