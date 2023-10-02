@@ -10,7 +10,7 @@ Easy to use at home medical charting system for medically complex children.
 Demonstration 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hgNUex33H38" target="_blank">
- <img src="http://img.youtube.com/vi/hgNUex33H38/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+ <img src="http://img.youtube.com/vi/hgNUex33H38/mqdefault.jpg" alt="Watch the video" width="480" height="360" border="10" />
 </a>
 
 
