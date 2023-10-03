@@ -1,5 +1,5 @@
 <header>
-	<h1>Kare - Medical Charting Application
+	<h1>Kare - Medical Charting Application</h1>
   <div align="center">
     <img src="logo.png" width="400px"</img> 
 </div>
@@ -8,10 +8,11 @@
 Easy to use at home medical charting system for medically complex children.
 
 I worked on a small team to build new requirements for the desktop application. See the demonstration here. 
-
+<div align = "center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hgNUex33H38" target="_blank">
  <img src="http://img.youtube.com/vi/hgNUex33H38/mqdefault.jpg" alt="Watch the video" width="480" height="360" border="10" />
 </a>
+</div>
 
 <nav>
 
