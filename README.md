@@ -16,41 +16,48 @@ I worked on a small team to build new requirements for the desktop application. 
 <nav>
 
 <p>
-	    <a href="#inspiration">Inspiration</a> •
-         <a href="#goals">Goals</a> •
-            <a href="#key-features">Key Features</a> •
-            <a href="#how-to-use">How it Works</a> 
+	    <a href="#requirements">Requirements</a> •
+   	    <a href="#key-features">Key Features</a> •
+            <a href="#user-manual">user Manual</a> 
 </p>
 </nav>
 
 
 
-<section id="inspiration">
+<section id="requirements">
 
-  <h1> Inspiration</h1>
+  <h1>Requirements</h1>
   <p>
-   
-  <br/>
-</section>
-
-<section id="goals">
-  <h1>Goals</h1>
-  <p>
-    
- 
+	  <ul>
+		  <li>Private Server - not virtual private (log-ins).</li>
+		  <li>Add Log Charting functionality</li>
+		  <li>Add More robust Data Visualization</li>
+		  <li>Add Correlation and related Statistics</li>
+		  <li>Make more friendly (think technology illiterate)</li>
+		  <li>Test Cases and Recommendations</li>
+		  <li>User Manual</li>
+	  </ul>
   </p>
   <br/>
 </section>
+
 
 <section id="key-features">
   <!-- Demonstration GIF -->
   <article>
     <h1>Key Features</h1>
+<p> Meet Client Requirements for expanded features </p>
+	  
+- [x] Server Logins
+- [x] Charting Functionality
+- [x] Expand Data Visualization
+- [x] Add Correlation and Statistics
 
+<p>Meet Engineering Requirments </p>
 
-      
-- [x]Meet Client goals for expanded features
-- [x] Some other Feature
+- [x] Test Cases
+- [x] Recommendations
+- [x] User Manual
 
 
 
@@ -58,9 +65,9 @@ I worked on a small team to build new requirements for the desktop application. 
   <br/>
 </section>
 
-<section id="how-to-use">
+<section id="user-manual">
   <article>
-    <h1>How it Works</h1>
+    <h1>User Manual</h1>
     <p></p>
 
 
