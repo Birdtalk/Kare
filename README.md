@@ -1,8 +1,6 @@
 <header>
 	<h1>Kare - Medical Charting Application</h1>
-  <div align="center">
-    <img src="logo.png" width="400px"</img> 
-</div>
+ 
 </h1>
 
 Easy to use at home medical charting system for medically complex children.
@@ -39,6 +37,9 @@ I worked on a small team to build new requirements for the desktop application. 
 		  <li>User Manual</li>
 	  </ul>
   </p>
+   <div align="center">
+    <img src="Karelowlevel.png" width="400px"</img> 
+</div>
   <br/>
 </section>
 
@@ -69,7 +70,14 @@ I worked on a small team to build new requirements for the desktop application. 
 <section id="user-manual">
   <article>
     <h1>User Manual</h1>
-    <p></p>
+    <p>The Kare Desktop User manual was a massive undertaking. Carefully designing the document with a completely technology naive user in mind is daunting. It was important to not leave anything to chance and explain every detail of the program to the target user. </p>
+     <div align="center">
+    <img src="usermanualcover.png" width="200px"</img> 
+     <br/>
+	     <p>The document covers and explains every software feature and even gives example of workflows to improve results and build confidence in the user.The final document is about 40 pages long.</p>
+        <img src="usermanualpages.png" width="400px"</img> 
+	     
+</div>
 
 
   </article>
